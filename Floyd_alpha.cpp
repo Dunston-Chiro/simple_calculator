@@ -9,11 +9,11 @@ int main()
 
     cin>>N;
 
-    cout<<"\n\n "<<'*'<<"\n";
+    cout<<"\n\n"<<'*'<<"\n";
 
     for(i=1;i<N;i++)
     {
-        cout<<'Hello World';
+        cout<<'*';
 
         for(j=1;j<=i;j++)
         {
