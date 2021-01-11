@@ -13,7 +13,7 @@ int main()
 
     for(i=1;i<N;i++)
     {
-        cout<<'*';
+        cout<<'Hello World';
 
         for(j=1;j<=i;j++)
         {
